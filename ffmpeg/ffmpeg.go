@@ -13,8 +13,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/floostack/transcoder"
-	"github.com/floostack/transcoder/utils"
+	"github.com/Borloxos/transcoder"
+	"github.com/Borloxos/transcoder/utils"
 )
 
 // Transcoder ...
